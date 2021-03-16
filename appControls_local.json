@@ -283,7 +283,7 @@
 				"inactive_games": []
 			},
 			"live": {
-				"cue": 4,
+				"cue": 0,
 				"cue_id": [201, 202, 203, 204, 220, 801]
 			},
 			"platform": "desktop"
