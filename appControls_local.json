@@ -1,0 +1,703 @@
+{
+"states": {
+"tournament_year": 2021,
+"bracket_incomplete": "1553007600",
+"schedule_slate": false,
+"bcg_modal": true,
+"bcg_push": true,
+"bcg_predictive_push": false,
+"sponsor_toast": true,
+"bracket_lock": 2,
+"bracket_postlock": true,
+"bracketiq_global": false,
+"bracketiq_stats": false,
+"bracketiq_ptc": false,
+"enable_ar": false,
+"enable_multigame": false,
+"enable_recommendations": false,
+"enable_fastbreak_cd": false,
+"enable_teamcast": false,
+"enable_dalton_fallback": false,
+"mml_auth": "TBS",
+"hln_auth": "TBS",
+"web_push": false,
+"push_group": true
+},
+"bcg_web": {
+"chat": false,
+"bracketiq_hub_stats": false
+},
+"cast": {
+"config": "15",
+"cache": "1",
+"internal_excitement": true,
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tv"
+}
+},
+"mac": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": true,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": true,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "desktop"
+}
+},
+"iphone": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": true,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": true,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "phone"
+}
+},
+"ipad": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": true,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": true,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tablet"
+}
+},
+"android_phone": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": true,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": false,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "phone"
+}
+},
+"android_tab": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": true,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": false,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tablet"
+}
+},
+"web": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": false,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": true,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "desktop"
+}
+},
+"fire_tab": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": true,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"scores_ticker": true,
+"pip": false,
+"chat": false,
+"picks": {
+"active": true,
+"inactive_games": []
+},
+"influencer_chat": {
+"active": true,
+"inactive_games": [
+901,
+101,
+102,
+103,
+104
+]
+},
+"interact": {
+"active": true,
+"inactive_games": []
+},
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tablet"
+}
+},
+"appletv": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": false,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tv"
+}
+},
+"firetv": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": false,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tv"
+}
+},
+"androidtv": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": false,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tv"
+}
+},
+"roku": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": false,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tv"
+}
+},
+"xbox": {
+"config": "15",
+"cache": "1",
+"home": {
+"featured": true,
+"article": false,
+"video": true
+},
+"internal_excitement": true,
+"gameswitcher": true,
+"stats": {
+"active": true,
+"inactive_games": [
+901,
+902,
+903,
+904,
+905,
+801,
+802,
+803,
+804
+]
+},
+"video": {
+"aval": {
+"active": "dHJ1ZQ==",
+"inactive_games": []
+},
+"live": {
+"cue": 3,
+"cue_id": [
+201,
+202,
+203,
+204,
+801
+]
+},
+"platform": "tv"
+}
+}
+}
